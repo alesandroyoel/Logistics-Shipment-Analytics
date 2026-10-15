@@ -17,7 +17,7 @@ End-to-end analytics project for a fictional logistics company: **PostgreSQL** a
 
 | Operational Overview | Cost Analysis |
 |---|---|
-| ![Operational Overview]() | ![Cost Analysis]() |
+| ![Operational Overview](https://github.com/alesandroyoel/Logistics-Shipment-Analytics/blob/main/docs/dashboard_operational_overview.png) | ![Cost Analysis](https://github.com/alesandroyoel/Logistics-Shipment-Analytics/blob/main/docs/dashboard_cost_analysis.png) |
 
 **Operational Overview** – shipment volume by status per month, on-time rate, average delivery time, and shipments by destination city.
 **Cost Analysis** – monthly cost trend, cost split by component (fuel / labor / toll), and the 10 most expensive shipments with delayed ones highlighted.
